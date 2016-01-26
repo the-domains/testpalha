@@ -1,7 +1,7 @@
 name: testpalha
 favicon: null
-layout_spectrum: 0.324802985182032
-typography_spectrum: 0.2893578049261123
+layout_spectrum: 0
+typography_spectrum: 0.24286
 cta:
   domain: null
   bucket: null
