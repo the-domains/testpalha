@@ -1,7 +1,7 @@
 name: testpalha
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.24286
+layout_spectrum: 1
+typography_spectrum: 0.77403
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.42727739084511995
+  brandStrength: 0.375
   lightness: 0.706204426009208
   saturation: 0.36585306422784925
   rhythmicContrast: 0.2776025019120425
