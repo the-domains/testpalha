@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[testpalha]]></title>
         <description><![CDATA[testpalha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testpalha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 00:19:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 07:44:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testpalha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>i would like to have an awesome space trip!! </p>]]></description>
+            <link>https://thegrid.ai/testpalha/i-would-like-to-have-an-awesome-space-trip/index.html</link>
+            <guid isPermaLink="false">7af647ad-13fa-4553-96b1-21293f6787dc</guid>
+            <pubDate>Thu, 21 Apr 2016 07:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e805ab-3bf6-46d2-bf85-92abf4c2ce9b.jpg">]]></description>
+            <link>https://thegrid.ai/testpalha/c3278335-2000-47b6-a0f7-4c9f2cf85c6e/index.html</link>
+            <guid isPermaLink="false">c3278335-2000-47b6-a0f7-4c9f2cf85c6e</guid>
+            <pubDate>Tue, 26 Jan 2016 00:22:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eded19c-a059-4ab9-90a5-21e9d5aa724e.jpg">]]></description>
-            <link>undefinedccda9936-ad2a-4d5d-922e-31745711ec58/index.html</link>
+            <link>https://thegrid.ai/testpalha/ccda9936-ad2a-4d5d-922e-31745711ec58/index.html</link>
             <guid isPermaLink="false">ccda9936-ad2a-4d5d-922e-31745711ec58</guid>
             <pubDate>Tue, 26 Jan 2016 00:19:20 GMT</pubDate>
         </item>
